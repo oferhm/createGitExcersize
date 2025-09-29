@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="226cf29f-7a9c-4069-b62e-59fc8146ba6f" name="Changes" comment="1 first commit to master">
-      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
+    <list default="true" id="226cf29f-7a9c-4069-b62e-59fc8146ba6f" name="Changes" comment="4 first commit to main">
+      <change afterPath="$PROJECT_DIR$/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,8 +14,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "oferhm"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/oferhm/createGitExcersize.git",
@@ -30,7 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "new__branch2"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -57,11 +72,46 @@
       <option name="project" value="LOCAL" />
       <updated>1759163159580</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1 first commit to master">
+      <option name="closed" value="true" />
+      <created>1759163360764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759163360764</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2 first commit to master">
+      <option name="closed" value="true" />
+      <created>1759163421622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759163421622</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3 first commit to new_branch">
+      <option name="closed" value="true" />
+      <created>1759163527327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759163527327</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4 first commit to main">
+      <option name="closed" value="true" />
+      <created>1759163604825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759163604825</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 first commit to master" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 first commit to master" />
+    <MESSAGE value="2 first commit to master" />
+    <MESSAGE value="3 first commit to new_branch" />
+    <MESSAGE value="4 first commit to main" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 first commit to main" />
   </component>
 </project>
